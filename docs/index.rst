@@ -3,6 +3,11 @@ Install and Activate PC Matic with License Key on New Computer Already Purchased
 
 Setting up PC Matic on a new computer is quick and secure—especially when you've already purchased a subscription. If you're wondering how to **Install PC Matic with License Key**, or if you're trying to **Install PC Matic Already Purchased** without having to rebuy the software, this guide is for you. Whether you've just upgraded your PC, reformatted your system, or simply want to extend protection to another device, you'll find the exact steps here.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://deskpcmatic.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with PC Matic</a>
+   </div>
 Many users assume they need to buy a new license when setting up a new device, but if you already have an account, you just need to **Install PC Matic with License Key** and sign in. In this guide, we'll walk you through downloading, installing, and activating PC Matic using your existing license. Once done, your device will be optimized and secured just like before.
 
 How to Install PC Matic Already Purchased?
