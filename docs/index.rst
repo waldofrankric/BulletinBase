@@ -5,10 +5,6 @@ Setting up PC Matic on a new computer is quick and secure—especially when you'
 
 Many users assume they need to buy a new license when setting up a new device, but if you already have an account, you just need to **Install PC Matic with License Key** and sign in. In this guide, we'll walk you through downloading, installing, and activating PC Matic using your existing license. Once done, your device will be optimized and secured just like before.
 
-.. contents::
-   :local:
-   :depth: 2
-
 How to Install PC Matic Already Purchased?
 ------------------------------------------
 
